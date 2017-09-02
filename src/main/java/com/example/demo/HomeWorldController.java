@@ -14,7 +14,7 @@ public class HomeWorldController {
 
     @GetMapping("/")
     public String home(Model model) {
-        model.addAttribute("test", "aaaa");
+        model.addAttribute("test", "aaaasbbbssss");
         return "home";
     }
 
