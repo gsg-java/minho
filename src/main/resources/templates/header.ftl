@@ -1,8 +1,8 @@
 <div class="container">
     <img class="img-fluid" src="img/profile.png" alt="">
     <div class="intro-text">
-        <span class="name">Start Bootstrap</span>
+        <span class="name">Hello World</span>
         <hr class="star-light">
-        <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+        <span class="skills">iOS Developer</span>
     </div>
 </div>

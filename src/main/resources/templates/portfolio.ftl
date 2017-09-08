@@ -9,7 +9,7 @@
                         <i class="fa fa-search-plus fa-3x"></i>
                     </div>
                 </div>
-                <img class="img-fluid" src="img/portfolio/cabin.png" alt="">
+                <img class="img-fluid" src="img/portfolio/app_big.png" alt="">
             </a>
         </div>
     </div>
