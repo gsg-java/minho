@@ -19,7 +19,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
     <!-- Custom styles for this template -->
-    <link href="css/freelancer.min.css" rel="stylesheet">
+    <link href="css/freelancer.css" rel="stylesheet">
 
 </head>
 
@@ -35,7 +35,7 @@
     <#include "header.ftl">
 </header>
 
-<!-- Portfolio Grid Section -->
+<PortfolioRepositoryolio Grid Section -->
 <section id="portfolio">
     <#include "portfolio.ftl">
 </section>
@@ -62,7 +62,7 @@
     </a>
 </div>
 
-<!-- Portfolio Modals -->
+<PortfolioRepositoryolio Modals -->
 <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
